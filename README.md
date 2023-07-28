@@ -31,7 +31,6 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
   
 </p>
