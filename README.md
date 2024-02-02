@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on getting my shit together.
 - 🔮 What do I do? - Develop Computer Softwares.
 - 👯 I’m looking to collaborate on Machine Learning, Python and Web Development related projects.
-- 💬 Ask me about: anything but my life.
-- 📫 How to reach me:http://sahilportfolio.c1.biz.
+- 💬 Ask me about: anything about my life.
+- 📫 How to reach me:http://sahilpanghal.github.io
 - 😄 Pronouns: built/different
 - ⚡ Fun fact: Getting stabbed is very demotivating.
 - 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
