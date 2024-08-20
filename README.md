@@ -35,7 +35,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
   
 </p>
-<br><br>
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
