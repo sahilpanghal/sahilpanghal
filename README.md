@@ -14,7 +14,7 @@
 - ⚡ Fun fact: Getting stabbed is very demotivating.
 - 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
 
-
+![](https://komarev.com/ghpvc/?username=sahilpanghal)
 **Languages and Tools:** 
 
 <p>
